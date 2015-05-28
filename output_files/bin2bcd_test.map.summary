@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Sep 30 18:16:56 2012
+Quartus II 32-bit Version : 11.1 Build 259 01/25/2012 SP 2 SJ Full Version
+Revision Name : bin2bcd_test
+Top-level Entity Name : bin2bcd_test
+Family : Cyclone IV E
+Total logic elements : 221
+    Total combinational functions : 221
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 74
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
